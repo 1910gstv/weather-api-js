@@ -1,7 +1,7 @@
-Gustavo Henrique
-Weather API
-30/04
-Versão 1
+Gustavo Henrique;
+Weather API;
+30/04;
+Versão 1;
 
 ===================================================
 
