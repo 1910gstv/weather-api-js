@@ -35,4 +35,4 @@ Esse projeto foi baseado no projeto 'Aplicação de Clima com OpenWeather API' d
 
 ##
 
-⌨ com ❤ por [@1910gstv](https://github.com/1910gstv)
+⌨ com 🤍 por [@1910gstv](https://github.com/1910gstv)
